@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-🌱 I’m currently studying at <a href="ptithcm.edu.vn">Posts and Telecommunications Institute of Technology</a>
+🌱 I’m currently studying at <a href="https://ptithcm.edu.vn">Posts and Telecommunications Institute of Technology</a>
 
 👨‍💻 I enjoy building things and solving problems with code.
 
