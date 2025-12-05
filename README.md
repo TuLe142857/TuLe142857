@@ -29,14 +29,6 @@
 
 ---
 
-## 📈 **GitHub Stats**:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuLe142857&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuLe142857&layout=compact&theme=radical" width="300"/>
-</p>
-
----
-
 ## 😄 **Fun Facts**:
 - I enjoy playing chess! Feel free to challenge me on [Chess.com](https://www.chess.com/member/tuleaibk). ♟️
 - I love playing games and listening to music in my free time! 🎮🎶
